@@ -20,7 +20,7 @@
 </p>
 
 <!--- Skill Set -->
-<h2 align="center">I work on back-end, machine learning & data science.</h2>
+<h2 align="center">I work on back-end, cloud & devOps.</h2>
 <details><summary><h2>A quick glance of my skills</h2></summary>
     <p><b>Version control:</b>
         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
